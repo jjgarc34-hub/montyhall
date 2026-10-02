@@ -1,0 +1,12 @@
+Package: montyhall
+Title: Monty Hall Game Simulation
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jerson", "Garcia", , "jjgarc34@asu.edu", role = c("aut", "cre"))
+Description: Functions used to simulate the Monty Hall problem and compare the stay and switch strategies.
+Depends:
+    dplyr
+License: GPL-3
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
